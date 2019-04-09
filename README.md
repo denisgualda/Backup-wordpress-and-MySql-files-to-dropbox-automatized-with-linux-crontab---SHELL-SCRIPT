@@ -1,2 +1,14 @@
 # backup2dropbox
 Backup to dropbox from web server content and bbdd copy(debian-apache-mysql)
+
+
+- Make a backup of your webserver content and Mysqle Data base data.
+
+- First make a mysqldump to create mysqle backup.
+
+- Second, make a tar.gz file to compress web server content.
+
+- Move bakcup files to new file : /webbackup.
+
+Run copy to dropbox sentences.
+
