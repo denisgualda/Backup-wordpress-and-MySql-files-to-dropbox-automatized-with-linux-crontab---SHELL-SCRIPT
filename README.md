@@ -1,4 +1,4 @@
-# backup2dropbox
+# backup2dropbox [Shell script]
 Backup to dropbox from web server content and bbdd copy(debian-apache-mysql)
 
 
